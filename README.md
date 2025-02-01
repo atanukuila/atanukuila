@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atanukuila
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning in 12 grade
 - 💞️ I’m looking to create Websites
 - ⚡ Fun fact: I like to make more friends
 
